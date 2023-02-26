@@ -32,5 +32,5 @@
 
 * Bug Reports
 * Test Reports
-* Test Cases
+* Test Cases - [link](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)
 * Test Scenarios
