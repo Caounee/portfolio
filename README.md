@@ -33,5 +33,4 @@
 * Bug Reports
 * Test Reports
 * Test Cases
-* ![<Otwieranie okna z informacjami o polityce prywatności>](<Otwieranie okna z informacjami o polityce prywatności.png>)
 * Test Scenarios
