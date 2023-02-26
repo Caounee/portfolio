@@ -30,7 +30,5 @@
 
 ## Projekty
 
-* Bug Reports
-* Test Reports
+* Bug Reports [link](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)
 * Test Cases - [link](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)
-* Test Scenarios
