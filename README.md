@@ -4,7 +4,7 @@
 
 
 
-## Narzędzia, z których korzystam
+## Narzędzia, których się uczę
 
 * HTML
 * CSS
