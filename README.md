@@ -25,7 +25,6 @@
 * [toniebug.pl](https://www.toniebug.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [pwicherski.gitbook.io/testowanie-oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania)
-* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
 ## Grupy, które obserwuję
 
