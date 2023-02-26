@@ -11,7 +11,7 @@
 * Jira
 * TestRail
 * Trello
-* 
+
 ## Aktualnie czytam
 
 * [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
@@ -33,4 +33,5 @@
 * Bug Reports
 * Test Reports
 * Test Cases
+![Otwieranie okna z informacjami o polityce prywatności](Otwieranie okna z informacjami o polityce prywatności.png)
 * Test Scenarios
