@@ -23,7 +23,7 @@
 
 ## Aktualnie czytam
 
-[Przystępny słownik pojęć Agile]https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
+* [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
 
 ## Grupy, które obserwuję
 
