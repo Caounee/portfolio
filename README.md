@@ -4,14 +4,14 @@
 
 
 
-## Tools used in testing:
+## Marzędzia, z których korzystam
 
-* Chrome Dev Tools
-* [Mockaroo](https://mockaroo.com)
-
-## Umiejętności techniczne:
-
-
+* HTML
+* CSS
+* Jira
+* TestRail
+* Trello
+* 
 ## Aktualnie czytam
 
 * [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
@@ -20,22 +20,13 @@
 * [toniebug.pl](https://www.toniebug.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [pwicherski.gitbook.io/testowanie-oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
 ## Grupy, które obserwuję
 
-* [LUBQA - Lublin Software Quality Assurance and Testing Group](https://www.facebook.com/LubQA/)
-* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
-* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
-* [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
-* [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
-
-## Blogs read
-
-* [testerzy.pl](http://testerzy.pl)
-* [testerka.pl](http://testerka.pl)
-* [toniebug.pl](https://www.toniebug.pl)
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 
 ## My Test Documentation
 
