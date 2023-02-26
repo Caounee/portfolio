@@ -2,9 +2,9 @@
 
 ## O mnie
 
-[Moje CV](https://caounee.github.io/)
-
 Jestem absolwentką technikum - profil fototechnik. Pracuję w handlu, jednak chcę to zmienić. Testowanie oprogramowania to coś, czym pragnę się zająć. Znam podstawy HTML, CSS. Uczę się języka angielskiego.
+
+[Moje CV](https://caounee.github.io/)
 
 ## Projekty
 
