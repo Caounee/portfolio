@@ -11,19 +11,15 @@
 
 ## Umiejętności techniczne:
 
-* ISTQB: Foundation Level + Advanced Level Technical Test Analyst
-* Databases: MySQL, MS SQL, Oracle Database, PL/SQL, noSQL, Mongo DB
-* Languages: Java, Javascript (Test Automation)
-* Testing: Selenium, TestNG, JUnit, Mocha, Postman, Rest Assured, ARC, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
-* Frameworks: Angular, CAS, ExtJS, Hibernate, JSF, Microsoft Silverlight, Redux, Spring, Vaadin, .NET
-* Version Control Systems: Bitbucket, Git, Gitlab, SVN
-* CI: Jenkins, TeamCity
-* Other tools: Confluence, JIRA, Redmine, Trello, TestLink, Maven, Node.js, npm/yarn
-
 
 ## Aktualnie czytam
 
 * [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
+* [testerzy.pl](http://testerzy.pl)
+* [testerka.pl](http://testerka.pl)
+* [toniebug.pl](https://www.toniebug.pl)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [pwicherski.gitbook.io/testowanie-oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania)
 
 ## Grupy, które obserwuję
 
