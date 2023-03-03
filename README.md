@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Jestem absolwentką technikum - profil fototechnik. Pracuję w handlu, jednak chcę to zmienić. Testowanie to coś, co bardzo mnie interesuje. Jest tym, czym pragnę się zająć. Znam podstawy HTML, CSS. Uczę się języka angielskiego.
+Jestem absolwentką technikum - profil fototechnik. Obecnie pracuję w handlu. Usłyszałam o testowaniu, wciągnęło mnie. Idę w tym kierunku.
 
 [Moje CV](https://caounee.github.io/)
 
