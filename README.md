@@ -1,7 +1,5 @@
 # Portfolio
 
-## O mnie
-
 [Moje CV](https://caounee.github.io/)
 
 ## Projekty
