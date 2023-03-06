@@ -10,9 +10,8 @@
 * Podstawy HTML, CSS
 * Podstawy Jira, TestRail
 * Trello
-* MS Power Point, MS Word, MS Excel
 * GitHub
-
+* MS Power Point, MS Word, MS Excel
 ## Aktualnie czytam
 
 * [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
