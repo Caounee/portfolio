@@ -2,8 +2,6 @@
 
 ## O mnie
 
-Jestem absolwentką technikum - profil fototechnik. Obecnie pracuję w handlu. Usłyszałam o testowaniu, wciągnęło mnie. Idę w tym kierunku.
-
 [Moje CV](https://caounee.github.io/)
 
 ## Projekty
