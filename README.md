@@ -1,7 +1,5 @@
 # Portfolio
 
-[Moje CV](https://caounee.github.io/)
-
 ## Projekty
 
 * Bug Reports - [link](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)
