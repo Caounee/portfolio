@@ -7,11 +7,11 @@
 
 ## Narzędzia, których się uczę
 
-* HTML
-* CSS
-* Jira
-* TestRail
+* Podstawy HTML, CSS
+* Podstawy Jira, TestRail
 * Trello
+* MS Power Point, MS Word, MS Excel
+* GitHub
 
 ## Aktualnie czytam
 
