@@ -10,16 +10,9 @@
 * Podstawy HTML, CSS
 * Podstawy Jira, TestRail
 * Trello
-* GitHub
-* MS Power Point, MS Word, MS Excel
-
-* Podstawy HTML, CSS
-* Podstawy Jira, TestRail
-* Trello
 * MS Power Point, MS Word, MS Excel
 * Programy graficzne - Adobe Photoshop, CorelDRAW, Affinity Photo
 * Język angielski komunikatywny
-
 
 ## Aktualnie czytam
 
