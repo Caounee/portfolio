@@ -9,7 +9,7 @@
 
 * Podstawy HTML, CSS
 * Podstawy Jira, TestRail
-* Trello
+* Tablica Trello
 * MS Power Point, MS Word, MS Excel
 * Programy graficzne - Adobe Photoshop, CorelDRAW, Affinity Photo
 * Język angielski komunikatywny
