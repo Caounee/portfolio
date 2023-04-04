@@ -5,15 +5,15 @@
 * Test Cases - [link](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)
 * Bug Reports - [link](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)
 
-## Narzędzia, których się uczę
+## Narzędzia, które znam, i których się uczę
 
-* Podstawy HTML, CSS
-* Podstawy Jira, TestRail
+* HTML, CSS
+* Jira, TestRail
 * Tablica Trello
 * MS Power Point, MS Word, MS Excel
-* Programy graficzne - Adobe Photoshop, CorelDRAW, Affinity Photo
-* Podstawy Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
-* Język angielski komunikatywny
+* Programy graficzne - Adobe Photoshop, CorelDRAW
+* Affinity Photo, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
+* Język angielski
 
 ## Aktualnie czytam
 
