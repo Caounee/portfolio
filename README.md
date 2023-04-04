@@ -9,9 +9,9 @@
 
 * HTML, CSS
 * Jira, TestRail
-* Tablica Trello
+* tablica Trello
 * MS Power Point, MS Word, MS Excel
-* Programy graficzne - Adobe Photoshop, CorelDRAW
+* programy graficzne - Adobe Photoshop, CorelDRAW
 * Affinity Photo, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
 
 ## Aktualnie czytam
