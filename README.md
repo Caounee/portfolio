@@ -13,7 +13,6 @@
 * MS Power Point, MS Word, MS Excel
 * Programy graficzne - Adobe Photoshop, CorelDRAW
 * Affinity Photo, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
-* Język angielski
 
 ## Aktualnie czytam
 
