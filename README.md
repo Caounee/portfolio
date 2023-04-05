@@ -1,20 +1,20 @@
 # Portfolio
 
-## Projekty
+## Projects
 
 * Test Cases - [link](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)
 * Bug Reports - [link](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)
 
-## Narzędzia, które znam, i których się uczę
+## Tools
 
 * HTML, CSS
 * Jira, TestRail
-* tablica Trello
+* Trello board
 * MS Power Point, MS Word, MS Excel
-* programy graficzne - Adobe Photoshop, CorelDRAW
+* graphic software - Adobe Photoshop, CorelDRAW
 * Affinity Photo, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
 
-## Aktualnie czytam
+## Recomended blogs
 
 * [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
 * [testerzy.pl](http://testerzy.pl)
@@ -23,7 +23,7 @@
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [pwicherski.gitbook.io/testowanie-oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania)
 
-## Grupy, które obserwuję
+## Groups on Facebook
 
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 * [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
