@@ -16,7 +16,7 @@
 
 ## Recomended blogs
 
-* [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
+* [przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
 * [testerzy.pl](http://testerzy.pl)
 * [testerka.pl](http://testerka.pl)
 * [toniebug.pl](https://www.toniebug.pl)
