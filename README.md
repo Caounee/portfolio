@@ -4,7 +4,9 @@
 
 🔹 [PROJECTS](#projects) 🔹 [TEST CASES](#testcases) 🔹 [BUG REPORTS](#bugreports) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ON FACEBOOK ABOUT TESTING](#face) 🔹
 
-<a href="https://pl.freepik.com/darmowe-wektory/ilustracja-wektorowa-abstrakcyjne-pojecie-eksploracji-danych-badanie-danych-eksploracja-informacji-pozyskiwanie-hurtowni-informacji-technika-zbierania-znajdowanie-wzorcow-sztuczna-inteligencja-abstrakcyjna-metafora-uczenia-maszynowego_11669384.htm#from_view=detail_alsolike">Obraz autorstwa vectorjuice</a> na Freepik
+<p align="center"><img src="https://img.freepik.com/darmowe-wektory/ilustracja-wektorowa-abstrakcyjne-pojecie-eksploracji-danych-badanie-danych-eksploracja-informacji-pozyskiwanie-hurtowni-informacji-technika-zbierania-znajdowanie-wzorcow-sztuczna-inteligencja-abstrakcyjna-metafora-uczenia-maszynowego_335657-2514.jpg?w=740&t=st=1681209043~exp=1681209643~hmac=74acbc0f4a9f5b161b12d70a2436b798c870e725e492761a8030148c1d72abc5" width="30%" height="30%"></p>
+
+<i><p align="center"><a href="https://pl.freepik.com/darmowe-wektory/ilustracja-wektorowa-abstrakcyjne-pojecie-eksploracji-danych-badanie-danych-eksploracja-informacji-pozyskiwanie-hurtowni-informacji-technika-zbierania-znajdowanie-wzorcow-sztuczna-inteligencja-abstrakcyjna-metafora-uczenia-maszynowego_11669384.htm#from_view=detail_alsolike" target="_blank">Obraz autorstwa vectorjuice</a> na Freepik</p></i>
 
 ## 🔹 <a name="projects">PROJECTS</a>
 
