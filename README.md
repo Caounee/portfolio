@@ -2,12 +2,22 @@
 
 ### <p align="center"><a href="https://www.linkedin.com/in/manuela-wystup/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
-🔹 [PROJECTS](#projects) 🔹 [TEST CASES example](#testcases) 🔹 [BUG REPORTS example](#bugreports) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ABOUT TESTING ON FACEBOOK](#face) 🔹
+🔹 [PROJECTS](#projects) 🔹 [TEST CASES](#testcases) 🔹 [BUG REPORTS](#bugreports) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ABOUT TESTING ON FACEBOOK](#face) 🔹
 
-## PROJECTS
+## <a name="projects">PROJECTS</a>
 
 * <a name="testcases">Test Cases - [link to Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
 * <a name="bugreports">Bug Reports - [link to Google Drive](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)</a>
+
+## <a name="courses">COURSES</a>
+
+### February 2023
+
+✔️ QA Marathon GoIT
+* developing test cases and creating bug reports
+✔️ Marathon HTML, CSS
+* learning basic HTML and CSS tags
+* creating your own resume as a webpage
 
 ## <a name="tools">TOOLS</a>
 
