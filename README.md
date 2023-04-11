@@ -4,6 +4,8 @@
 
 🔹 [PROJECTS](#projects) 🔹 [TEST CASES](#testcases) 🔹 [BUG REPORTS](#bugreports) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ON FACEBOOK ABOUT TESTING](#face) 🔹
 
+<a href="https://pl.freepik.com/darmowe-wektory/ilustracja-wektorowa-abstrakcyjne-pojecie-eksploracji-danych-badanie-danych-eksploracja-informacji-pozyskiwanie-hurtowni-informacji-technika-zbierania-znajdowanie-wzorcow-sztuczna-inteligencja-abstrakcyjna-metafora-uczenia-maszynowego_11669384.htm#from_view=detail_alsolike">Obraz autorstwa vectorjuice</a> na Freepik
+
 ## 🔹 <a name="projects">PROJECTS</a>
 
 * <a name="testcases">Test Cases - [link to Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
