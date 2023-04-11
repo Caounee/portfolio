@@ -16,7 +16,7 @@
 ✔️ QA Marathon GoIT
 * developing test cases and creating bug reports
 
-✔️ Marathon HTML, CSS
+✔️ Marathon GoIT
 * learning basic HTML and CSS tags
 * creating your own resume as a webpage
 
