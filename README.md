@@ -1,4 +1,4 @@
-# Portfolio
+# <p align="center">Portfolio - Manuela Wystup</p>
 
 ### <p align="center"><a href="https://www.linkedin.com/in/manuela-wystup/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
