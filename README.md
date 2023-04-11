@@ -23,14 +23,14 @@
 
 * Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)
 
-## <a name=techskills">TECH SKILLS</a>
+## <a name="techskills">TECH SKILLS</a>
 
 * developing Test Cases
 * creating Bug Reports
 * testing websites
 * creating a webpage in HTML and CSS
 
-## <a name=softskills">SOFT SKILLS</a>
+## <a name="softskills">SOFT SKILLS</a>
 
 * concentration
 * accuracy
