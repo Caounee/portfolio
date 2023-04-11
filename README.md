@@ -1,7 +1,7 @@
 # <p align="center">Portfolio - Manuela Wystup</p>
 
 ### <p align="center"><a href="https://www.linkedin.com/in/manuela-wystup/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
------
+
 🔹 [PROJECTS](#projects) 🔹 [TEST CASES](#testcases) 🔹 [BUG REPORTS](#bugreports) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ON FACEBOOK ABOUT TESTING](#face) 🔹
 
 ## <a name="projects">PROJECTS</a>
