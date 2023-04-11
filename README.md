@@ -2,7 +2,7 @@
 
 ### <p align="center"><a href="https://www.linkedin.com/in/manuela-wystup/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
-:white_dot: [PROJECTS](#projects) :white_circle: [TEST CASES example](#testcases) :white_circle: [BUG REPORTS example](#bugreports) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills) :white_circle: [LANGUAGES](#languages) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
+🔹: [PROJECTS](#projects) :white_circle: [TEST CASES example](#testcases) :white_circle: [BUG REPORTS example](#bugreports) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills) :white_circle: [LANGUAGES](#languages) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
 
 
 ## PROJECTS
