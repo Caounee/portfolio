@@ -2,7 +2,7 @@
 
 ### <p align="center"><a href="https://www.linkedin.com/in/manuela-wystup/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
-🔹 [PROJECTS](#projects) 🔹 [TEST CASES](#testcases) 🔹 [BUG REPORTS](#bugreports) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ABOUT TESTING ON FACEBOOK](#face) 🔹
+🔹 [PROJECTS](#projects) 🔹 [TEST CASES](#testcases) 🔹 [BUG REPORTS](#bugreports) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ON FACEBOOK ABOUT TESTING](#face) 🔹
 
 
 
@@ -64,7 +64,7 @@
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [pwicherski.gitbook.io/testowanie-oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania)
 
-## <a name="face">GROUPS ABOUT TESTING ON FACEBOOK</a>
+## <a name="face">GROUPS ON FACEBOOK ABOUT TESTING</a>
 
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 * [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
