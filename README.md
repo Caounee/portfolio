@@ -1,12 +1,13 @@
 # <p align="center">Portfolio - Manuela Wystup</p>
 
-### <p align="center"><a href="https://www.linkedin.com/in/manuela-wystup/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
-
-## 🔹 ABOUT ME
+## 🔹 <a name="aboutme">ABOUT ME</a>
 
 Po kilku latach pracy w handlu poczułam, że czas sięgnąć po nowe. Rozpoczęłam przygodę z testowaniem oprogramowania i szukam miejsca, w którym mogłabym rozwijać swoje umiejętności w branży IT jako tester.
 
-🔹 [PROJECTS](#projects) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ON FACEBOOK ABOUT TESTING](#face) 🔹
+
+### <p align="center"><a href="https://www.linkedin.com/in/manuela-wystup/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
+
+🔹 [ABOUT ME](#aboutme) 🔹 [PROJECTS](#projects) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ON FACEBOOK ABOUT TESTING](#face) 🔹
 
 <p align="center"><img src="https://img.freepik.com/darmowe-wektory/ilustracja-wektorowa-abstrakcyjne-pojecie-eksploracji-danych-badanie-danych-eksploracja-informacji-pozyskiwanie-hurtowni-informacji-technika-zbierania-znajdowanie-wzorcow-sztuczna-inteligencja-abstrakcyjna-metafora-uczenia-maszynowego_335657-2514.jpg?w=740&t=st=1681209043~exp=1681209643~hmac=74acbc0f4a9f5b161b12d70a2436b798c870e725e492761a8030148c1d72abc5" width="30%" height="30%"></p>
 
