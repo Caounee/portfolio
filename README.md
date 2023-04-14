@@ -33,10 +33,6 @@
 * graphic software - Adobe Photoshop, CorelDRAW
 * Affinity Photo, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
 
-## 🔹 <a name="books">BOOKS ABOUT TESTING</a>
-
-* Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)
-
 ## 🔹 <a name="techskills">TECH SKILLS</a>
 
 * developing Test Cases
@@ -56,6 +52,10 @@
 
 * Polish - native
 * English - basic
+
+## 🔹 <a name="books">BOOKS ABOUT TESTING</a>
+
+* Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)
 
 ## 🔹 <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
 
