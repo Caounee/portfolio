@@ -10,7 +10,7 @@
 
 ## 🔹 <a name="aboutme">ABOUT ME</a>
 
-After a few years of working in commerce, I felt it was time to reach for something new. I embarked on an adventure with software testing and I am looking for a place where I could develop my skills in the IT industry as a tester.
+After a few years of working in commerce, I felt it was time to reach for something new. I began an adventure with testing and I am looking for a place where I could develop my skills in the IT industry as a manual tester.
 
 ## 🔹 <a name="projects">PROJECTS</a>
 
