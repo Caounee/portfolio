@@ -31,7 +31,8 @@ After a few years of working in commerce, I felt it was time to reach for someth
 ## 🔹 <a name="tools">TOOLS</a>
 
 * HTML, CSS
-* Jira, TestRail
+* Jira, TestRail, Zephyr
+* Visual Studio Code
 * Trello board
 * MS Power Point, MS Word, MS Excel
 * graphic software - Adobe Photoshop, CorelDRAW
