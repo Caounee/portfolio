@@ -1,51 +1,43 @@
-# <p align="center">Portfolio - Manuela Wystup</p>
+<p align="center"><img src="https://img.freepik.com/darmowe-zdjecie/kobieta-korzystajaca-z-zestawu-vr_53876-129655.jpg?w=1380&t=st=1682612931~exp=1682613531~hmac=f068637cb23630a50d09db9a22b743d9ff547fbce970df509b371bf80f9526e2" width="100%" height="30%">
+<i>Image by <b>rawpixel.com</b></a> on Freepik</i></p>
 
-### <p align="center"><a href="https://www.linkedin.com/in/manuela-wystup/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
-
-🔹 [ABOUT ME](#aboutme) 🔹 [PROJECTS](#projects) 🔹 [COURSES](#courses) 🔹 [TOOLS](#tools) 🔹 [TECH SKILLS](#techskills) 🔹 [SOFT SKILLS](#softskills) 🔹 [LANGUAGES](#languages) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 🔹 [GROUPS ON FACEBOOK ABOUT TESTING](#face) 🔹
-
-<p align="center"><img src="https://img.freepik.com/darmowe-wektory/ilustracja-wektorowa-abstrakcyjne-pojecie-eksploracji-danych-badanie-danych-eksploracja-informacji-pozyskiwanie-hurtowni-informacji-technika-zbierania-znajdowanie-wzorcow-sztuczna-inteligencja-abstrakcyjna-metafora-uczenia-maszynowego_335657-2514.jpg?w=740&t=st=1681209043~exp=1681209643~hmac=74acbc0f4a9f5b161b12d70a2436b798c870e725e492761a8030148c1d72abc5" width="30%" height="30%"></p>
-
-<i><p align="center"><a href="https://pl.freepik.com/darmowe-wektory/ilustracja-wektorowa-abstrakcyjne-pojecie-eksploracji-danych-badanie-danych-eksploracja-informacji-pozyskiwanie-hurtowni-informacji-technika-zbierania-znajdowanie-wzorcow-sztuczna-inteligencja-abstrakcyjna-metafora-uczenia-maszynowego_11669384.htm#from_view=detail_alsolike" target="_blank">Obraz autorstwa vectorjuice</a> na Freepik</p></i>
-
-## 🔹 <a name="aboutme">ABOUT ME</a>
+### About me
 
 After a few years of working in commerce, I felt it was time to reach for something new. I began an adventure with testing and I am looking for a place where I could develop my skills in the IT industry as a manual tester.
 
-## 🔹 <a name="projects">PROJECTS</a>
+### Projects
 
 * <a name="testcases">Test Cases - [link to Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
 * <a name="bugreports">Bug Reports - [link to Google Drive](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)</a>
 
-## 🔹 <a name="courses">COURSES</a>
+### Courses
 
-### February 2023
+February 2023
 
-✔️ QA Marathon GoIT
-* developing test cases and creating bug reports
+> ✔️ QA Marathon GoIT
+>* developing test cases and creating bug reports
 
-✔️ Marathon GoIT
-* learning basic HTML and CSS tags
-* creating your own resume as a webpage
+> ✔️ Marathon GoIT
+>* learning basic HTML and CSS tags
+>* creating your own resume as a webpage
 
-## 🔹 <a name="tools">TOOLS</a>
+### Tools
 
-* HTML, CSS
 * Jira, TestRail, Zephyr
+* HTML, CSS
 * Visual Studio Code
-* Trello board
-* MS Power Point, MS Word, MS Excel
-* graphic software - Adobe Photoshop, CorelDRAW
-* Affinity Photo, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
+* Trello
+* Microsoft Word, Microsoft Excel
+* others - Affinity Photo, CorelDRAW, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
 
-## 🔹 <a name="techskills">TECH SKILLS</a>
+### Tech skills
 
-* developing Test Cases
-* creating Bug Reports
+* creating test cases
+* bug reporting
 * testing websites
 * creating a webpage in HTML and CSS
 
-## 🔹 <a name="softskills">SOFT SKILLS</a>
+### Soft skills
 
 * concentration
 * accuracy
@@ -53,16 +45,16 @@ After a few years of working in commerce, I felt it was time to reach for someth
 * commitment
 * teamwork
 
-## 🔹 <a name="languages">LANGUAGES</a>
+### Languages
 
 * Polish - native
 * English - basic
 
-## 🔹 <a name="books">BOOKS ABOUT TESTING</a>
+### Books about testing
 
-* Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)
+* Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin
 
-## 🔹 <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
+### Recommended blogs about testing
 
 * [Przystępny słownik pojęć Agile](https://sii.pl/blog/przystepny-slownik-pojec-agile/?category=zarzadzanie-projektami&tag=agile,dictionary,scrum)
 * [testerzy.pl](http://testerzy.pl)
@@ -71,7 +63,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [pwicherski.gitbook.io/testowanie-oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania)
 
-## 🔹 <a name="face">GROUPS ON FACEBOOK ABOUT TESTING</a>
+### Groups on Facebook about testing
 
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 * [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
