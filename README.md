@@ -7,6 +7,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 ## Projects
 
 :white_check_mark: [skleptest.pl - web application](https://skleptest.pl/)</a>
+
 <p><i> I performed exploratory tests of the application. Tested: homepage - visual inspection and checking if the links leading to subpages work properly. In further tests, the following require additional attention:
 •	product category page
 •	product detail page
@@ -15,6 +16,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 •	shopping cart
 •	user account </i></p>
  
+* [Bug Reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 * [report on GitHub](https://github.com/Caounee/skleptest)</a>
 
 :white_check_mark: QA Marathon GoIT
