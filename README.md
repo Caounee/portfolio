@@ -6,24 +6,25 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ## Projects
 
-✔️ [skleptest.pl - web application](https://skleptest.pl/)</a>
-<p> Exploratory testing </p>
+:white_check_mark: [skleptest.pl - web application](https://skleptest.pl/)</a>
+<p> I performed exploratory tests of the application.
 
 * [report on GitHub](https://github.com/Caounee/skleptest)</a>
 
-✔️ QA Marathon GoIT
+:white_check_mark: QA Marathon GoIT
+<p> A 4-day marathon during which I learned to write test cases and report errors from the website. </p>
 
 * <a name="testcases">[Test Cases on Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
 * <a name="bugreports">[Bug Reports on Google Drive](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)</a>
 
 ## Courses
 
-✔️ QA Marathon GoIT
+:white_check_mark: QA Marathon GoIT
  <p><i> 4 days of training | February 2023 </i></p>
  
 * creating test cases, bug reporting
 
-✔️ Marathon GoIT
+:white_check_mark: Marathon GoIT
 <p><i> 7 days of training | February 2023 </i></p>
 
 * learning basic HTML and CSS tags
