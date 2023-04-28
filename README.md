@@ -8,14 +8,14 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ✔️ QA Marathon GoIT
 > 4 days of training | February 2023
-* <a name="testcases">Test Cases - [link to Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
-* <a name="bugreports">Bug Reports - [link to Google Drive](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)</a>
+* <a name="testcases">[Test Cases on Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
+* <a name="bugreports">[Bug Reports on Google Drive](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)</a>
 
 ## Courses
 
 ✔️ QA Marathon GoIT
 > 4 days of training | February 2023
-* developing test cases and creating bug reports
+* creating test cases, bug reporting and testing website
 
 ✔️ Marathon GoIT
 > 7 days of training | February 2023
