@@ -29,7 +29,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 * Visual Studio Code
 * Trello
 * Microsoft Word, Microsoft Excel
-* others - Affinity Photo, CorelDRAW, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
+* others - CorelDRAW, Adobe Photoshop, Affinity Photo, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition
 
 ## Tech skills
 
