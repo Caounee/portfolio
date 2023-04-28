@@ -17,7 +17,8 @@ After a few years of working in commerce, I felt it was time to reach for someth
 ## Courses
 
 ✔️ QA Marathon GoIT
-> 4 days of training | February 2023
+ <p><i> 4 days of training | February 2023 </i></p>
+ 
 * creating test cases, bug reporting
 
 ✔️ Marathon GoIT
