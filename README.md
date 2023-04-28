@@ -18,7 +18,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 * [report on GitHub](https://github.com/Caounee/skleptest)</a>
 
 :white_check_mark: QA Marathon GoIT
-<p><i> A 4-day marathon during which I learned to write test cases and report bugs from the website. </i></p>
+<p><i> A 4-day marathon during which I learned how to creating test cases and bug reporting of the web application. </i></p>
 
 * <a name="testcases">[Test Cases on Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
 * <a name="bugreports">[Bug Reports on Google Drive](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)</a>
