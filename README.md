@@ -6,7 +6,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ## Projects
 
-✔️ [skleptest.pl](https://skleptest.pl/)</a>
+✔️ [skleptest.pl - web application](https://skleptest.pl/)</a>
 
 
 ✔️ QA Marathon GoIT
