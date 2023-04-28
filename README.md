@@ -9,7 +9,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 ## Projects
 
 ✔️ QA Marathon GoIT
-> 7 days of training
+> 4 days of training
 * <a name="testcases">Test Cases - [link to Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
 * <a name="bugreports">Bug Reports - [link to Google Drive](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)</a>
 
