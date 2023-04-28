@@ -30,7 +30,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ## Tools
 
-* Jira •TestRail • Zephyr
+* Jira • TestRail • Zephyr
 * HTML • CSS
 * Visual Studio Code
 * Trello
