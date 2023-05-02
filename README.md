@@ -8,7 +8,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 :white_check_mark: [skleptest.pl - web application](https://skleptest.pl/)</a>
 
-<p><i> I conducted exploratory tests of the application. Tested: the homepage - checked for usability, functionality, and visual aspects. In further tests, the following areas require additional attention:
+<p><i> I am conducting exploratory tests of the application. So far, the following have been tested: the homepage - checked for usability, functionality and visual aspects. In further tests, the following areas require additional attention:
         product category page
 •       product detail page
 •       product search function
