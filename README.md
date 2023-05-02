@@ -41,7 +41,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 ## Tools
 
 * Jira | TestRail | Zephyr
-* HTML | CSS
+* basics of: HTML | CSS
 * Visual Studio Code
 * Trello
 * Microsoft Word | Microsoft Excel
@@ -49,9 +49,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 others:
 * CorelDRAW | Adobe Photoshop
-
-basic of:
-* Affinity Photo | Adobe Illustrator | Adobe InDesign | Adobe After Effects | Adobe Audition
+* basics of: Affinity Photo | Adobe Illustrator | Adobe InDesign | Adobe After Effects | Adobe Audition
 
 ## Tech skills
 
