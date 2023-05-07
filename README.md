@@ -27,10 +27,10 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ## Courses
 
-:white_check_mark: QA Marathon GoIT
- <p><i> 4 days of training | February 2023 </i></p>
+:white_check_mark: uTestAcademy
+ <p><i> at present</i></p>
  
-* creating test cases, bug reporting
+* learning basic testing skills and practical application of these skills in live testing cycles
 
 :white_check_mark: Marathon GoIT
 <p><i> 7 days of training | February 2023 </i></p>
