@@ -19,15 +19,9 @@ After a few years of working in commerce, I felt it was time to reach for someth
 * [bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 * [report on GitHub](https://github.com/Caounee/skleptest) / [report on Google Drive in PDF](https://drive.google.com/file/d/1Po90SQby81PSUTO2VD9_uvJEsfg_BED9/view?usp=sharing)</a>
 
-:white_check_mark: QA Marathon GoIT
-<p><i> A 4-day marathon during which I learned how to creating test cases and bug reporting of the web application. </i></p>
-
-* <a name="testcases">[test cases on Google Drive](https://drive.google.com/drive/folders/1uRpx4_OgXgrH7y2ioXnRnO88qZUV_jfE?usp=sharing)</a>
-* <a name="bugreports">[bug reports on Google Drive](https://drive.google.com/drive/folders/1bXRDoh7Rx4Mj8fWwafv0iggPIZbc3sP8?usp=sharing)</a>
-
 ## Courses
 
-:white_check_mark: uTestAcademy
+:white_check_mark: uTest Academy
  <p><i> at present</i></p>
  
 * learning basic testing skills and practical application of these skills in live testing cycles
