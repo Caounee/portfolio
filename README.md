@@ -40,16 +40,19 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ## Tools
 
-* Jira | TestRail | Zephyr
-* basics of: HTML | CSS
+* Jira, TestRail, Zephyr
+* SQL - <i>basics</i>
+* GIT, GitHub - <i>basics</i>
+* DevTools - <i>basics</i>
+* HTML, CSS - <i>basics</i>
 * Visual Studio Code
 * Trello
-* Microsoft Word | Microsoft Excel
+* Microsoft Word, Microsoft Excel
 
 
 others:
-* CorelDRAW | Adobe Photoshop
-* basics of: Affinity Photo | Adobe Illustrator | Adobe InDesign | Adobe After Effects | Adobe Audition
+* CorelDRAW, Adobe Photoshop
+* Affinity Photo, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition - <i>basics</i>
 
 ## Tech skills
 
@@ -68,8 +71,8 @@ others:
 
 ## Languages
 
-* Polish - native
-* English - basic
+* Polish - <i>native</i>
+* English - <i>basic</i>
 
 ## Books about testing
 
