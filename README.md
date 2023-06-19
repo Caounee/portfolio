@@ -50,6 +50,7 @@ others:
 
 ## Tech skills
 
+* knowledge of ISTQB
 * creating test cases
 * bug reporting
 * testing websites
@@ -66,7 +67,7 @@ others:
 ## Languages
 
 * Polish - <i>native</i>
-* English - <i>basic</i>
+* English - <i>A2</i>
 
 ## Books about testing
 
