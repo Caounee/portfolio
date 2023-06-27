@@ -26,6 +26,12 @@ After a few years of working in commerce, I felt it was time to reach for someth
  
 * learning basic testing skills and practical application of these skills in live testing cycles
 
+:white_check_mark: QA Marathon GoIT
+<p><i> 4 days of training | February 2023 </i></p>
+
+* developing test cases
+* creating bug reports
+
 :white_check_mark: Marathon GoIT
 <p><i> 7 days of training | February 2023 </i></p>
 
@@ -36,7 +42,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 * Jira, TestRail, Zephyr
 * SQL - <i>basics</i>
-* GIT, GitHub - <i>basics</i>
+* GIT, GitHub
 * DevTools - <i>basics</i>
 * HTML, CSS - <i>basics</i>
 * Visual Studio Code
