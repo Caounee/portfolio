@@ -51,6 +51,9 @@ others:
 ## Tech skills
 
 * knowledge of ISTQB
+* knowledge of the HTTP protocol and the most common error codes
+* knowledge of various operating systems <i>(basics)</i>
+* knowledge of Agile
 * creating test cases
 * bug reporting
 * testing websites
