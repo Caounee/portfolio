@@ -40,7 +40,8 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ## Tools
 
-* Jira, TestRail, Zephyr
+* Jira, Confluence
+* TestRail, Zephyr
 * SQL - <i>basics</i>
 * GIT, GitHub
 * DevTools - <i>basics</i>
