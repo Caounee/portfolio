@@ -30,7 +30,8 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 :white_check_mark: uTest Academy
  <p><i> at present</i></p>
  
-* learning basic testing skills and practical application of these skills in live testing cycles
+* learning basic testing skills
+* practical application of the skills in live testing cycles
 
 :white_check_mark: QA Marathon GoIT
 <p><i> 4 days of training | February 2023 </i></p>
