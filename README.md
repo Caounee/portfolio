@@ -63,7 +63,7 @@ others:
 * creating test cases
 * bug reporting
 * testing websites
-* creating a webpage in HTML, CSS
+* creating a website in HTML, CSS
 
 ## Soft skills
 
