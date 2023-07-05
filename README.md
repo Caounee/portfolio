@@ -2,7 +2,13 @@
 
 ## About me
 
-After a few years of working in the trade industry, I felt it was time to reach for something new. I began an adventure with testing and I am looking for a place where I could develop my skills in the IT industry as a manual tester.
+I am a beginner tester who recently decided recently decided to change the industry from trading to testing. I am enthusiastic and passionate about exploring the world of software testing and learning new skills in the field.
+
+For several years I worked in the trade industry, where I developed skills in customer service, project management and problem solving. I am convinced that this valuable knowledge and experience will be useful to take on new challenges and grow as a professional tester.
+
+I am meticulous, conscientious and ready to take on new challenges. My previous experience has taught me communication, flexibility and the ability to cope in a dynamic environment. Now I want to use these skills to collaborate with a team, focus on detail and deliver quality software.
+
+If you are looking for the full enthusiasm and commitment of the tester, feel free to contact me. I would like to join an inspiring team and grow together in the field of software testing.
 
 ## Projects
 
@@ -63,7 +69,7 @@ others:
 * creating test cases
 * bug reporting
 * testing websites
-* creating a website in HTML, CSS
+* creating websites in HTML, CSS
 
 ## Soft skills
 
