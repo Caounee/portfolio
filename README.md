@@ -75,6 +75,7 @@ others:
 ## Soft skills
 
 * concentration
+* communication
 * accuracy
 * patience
 * commitment
