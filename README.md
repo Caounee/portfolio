@@ -28,7 +28,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 ## Courses
 
 :white_check_mark: uTest Academy
- <p><i> at present</i></p>
+ <p><i>present</i></p>
  
 * learning basic testing skills
 * practical application of the skills in live testing cycles
