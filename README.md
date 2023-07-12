@@ -49,13 +49,14 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 * Jira, Confluence
 * TestRail, Zephyr
-* SQL - <i>basics</i>
-* GIT, GitHub
-* DevTools - <i>basics</i>
-* HTML, CSS - <i>basics</i>
+* SQL
+* DevTools
+* GitHub, GIT
+* REST API, Postman
+* HTML, CSS
 * Visual Studio Code
 * Trello
-* Microsoft Word, Microsoft Excel
+* Microsoft Office
 
 
 others:
@@ -70,6 +71,7 @@ others:
 * creating test cases
 * bug reporting
 * testing websites
+* API testing
 * creating websites in HTML, CSS
 
 ## Soft skills
