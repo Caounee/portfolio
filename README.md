@@ -47,12 +47,14 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 ## Tools
 
-* Jira, Confluence
+* Jira
+* Confluence
 * TestRail, Zephyr
 * SQL
 * DevTools
 * GitHub, GIT
-* REST API, Postman
+* REST API
+* Postman
 * HTML, CSS
 * Visual Studio Code
 * Trello
