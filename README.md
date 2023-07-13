@@ -47,34 +47,35 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 ## Tools
 
-* Jira
-* Confluence
-* TestRail, Zephyr
-* SQL
-* DevTools
-* GitHub, GIT
-* REST API
-* Postman
-* HTML, CSS
-* Visual Studio Code
-* Trello
-* Microsoft Office
+
+* ✅ Jira
+* ✅ Confluence
+* ✅ TestRail, Zephyr
+* ✅ SQL
+* ✅ DevTools
+* ✅ GitHub, GIT
+* ✅ REST API
+* ✅ Postman
+* ✅ HTML, CSS
+* ✅ Visual Studio Code
+* ✅ Trello
+* ✅ Microsoft Office
 
 
 others:
-* Affinity Photo, CorelDRAW, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition - <i>basics</i>
+* ✅ Affinity Photo, CorelDRAW, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition - <i>basics</i>
 
 ## Tech skills
 
-* knowledge of ISTQB
-* knowledge of the HTTP/HTTPS protocol and the most common error codes
-* knowledge of the Linux system - <i>basics</i>
-* knowledge of Agile
-* creating test cases
-* bug reporting
-* testing websites
-* API testing
-* creating websites in HTML, CSS
+* ✅ knowledge of ISTQB
+* ✅ knowledge of the HTTP/HTTPS protocol and the most common error codes
+* ✅ knowledge of the Linux system - <i>basics</i>
+* ✅ knowledge of Agile
+* ✅ creating test cases
+* ✅ bug reporting
+* ✅ testing websites
+* ✅ API testing
+* ✅ creating websites in HTML, CSS
 
 ## Soft skills
 
