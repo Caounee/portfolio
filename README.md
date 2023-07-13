@@ -57,6 +57,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 * ✅ REST API
 * ✅ Postman
 * ✅ JSON
+* ✅ XML
 * ✅ HTML, CSS
 * ✅ Visual Studio Code
 * ✅ Trello
