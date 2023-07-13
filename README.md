@@ -14,7 +14,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 :white_check_mark: [skleptest.pl - web application](https://skleptest.pl/)</a>
 
-<p><i> I am conducting exploratory tests of the application. So far, the following have been tested: the homepage - checked for usability, functionality and visual aspects. In further tests, the following areas require additional attention:
+<p><i> I conduct exploratory tests of the application. So far, the following have been tested: the homepage - checked for usability, functionality and visual aspects. In further tests, the following areas require additional attention:
         product category page
 •       product detail page
 •       product search function
@@ -56,6 +56,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 * ✅ GitHub, GIT
 * ✅ REST API
 * ✅ Postman
+* ✅ JSON
 * ✅ HTML, CSS
 * ✅ Visual Studio Code
 * ✅ Trello
@@ -79,17 +80,17 @@ others:
 
 ## Soft skills
 
-* concentration
-* communication
-* accuracy
-* patience
-* commitment
-* teamwork
+* ✅ concentration
+* ✅ communication
+* ✅ accuracy
+* ✅ patience
+* ✅ commitment
+* ✅ teamwork
 
 ## Languages
 
-* Polish - <i>native</i>
-* English - <i>A2</i>
+* ✅ Polish - <i>native</i>
+* ✅ English - <i>A2</i>
 
 ## Books about testing
 
