@@ -27,19 +27,19 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 ## Courses
 
-:white_check_mark: uTest Academy
+:white_check_mark: <b>uTest Academy</b> - <i>uTest</i>
  <p><i>present</i></p>
  
 * learning basic testing skills
 * practical application of the skills in live testing cycles
 
-:white_check_mark: QA Marathon GoIT
+:white_check_mark: <b>QA Marathon</b> - <i>GoIT</i>
 <p><i> 4 days of training | February 2023 </i></p>
 
 * developing test cases
 * creating bug reports
 
-:white_check_mark: Marathon GoIT
+:white_check_mark: <b>Marathon GoIT</b> - <i>GoIT</i>
 <p><i> 7 days of training | February 2023 </i></p>
 
 * learning basic HTML and CSS tags
