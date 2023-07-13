@@ -53,7 +53,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 * ✅ TestRail, Zephyr
 * ✅ SQL
 * ✅ DevTools
-* ✅ GitHub, GIT
+* ✅ GIT, GitHub
 * ✅ REST API
 * ✅ Postman
 * ✅ JSON
