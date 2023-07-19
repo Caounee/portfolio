@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a beginner tester who recently decided to change the industry from trading industry. My approach is full of enthusiasm and passion for exploring the tester's world and learning new skills.
+I am a beginner tester who recently decided to change the industry from trading industry. My approach is full of enthusiasm and passion for exploring the tester's world.
 
 For several years I worked in the trade industry, where I developed skills in customer service, project management and problem solving. I am convinced that this valuable knowledge and experience will be useful to take on new challenges and grow as a professional tester.
 
