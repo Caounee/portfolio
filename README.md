@@ -14,7 +14,8 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 :white_check_mark: Trello REST API testing with Postman
 
-<p><i>API testing based on [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)</i></p>
+<p><i>API testing based on [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)
+</i></p>
 
 * [screenshot on Google Drive](https://drive.google.com/file/d/177nJ2icbPnrgaMYBW9AG-P3ON85rEJDm/view?usp=sharing)
 
