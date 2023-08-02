@@ -14,6 +14,8 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 :white_check_mark: Trello REST API testing with Postman
 
+
+
 <i>API testing based on [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)</i>
 
 
@@ -61,6 +63,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 * ✅ TestRail, Zephyr
 * ✅ SQL
 * ✅ DevTools
+* ✅ Playwright
 * ✅ GIT, GitHub
 * ✅ REST API
 * ✅ Postman
