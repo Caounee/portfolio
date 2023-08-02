@@ -12,6 +12,13 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 ## Projects
 
+:white_check_mark: Trello REST API testing with Postman
+
+<p><i>API testing based on [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)</i></p>
+
+* [screenshot on Google Drive](https://drive.google.com/file/d/177nJ2icbPnrgaMYBW9AG-P3ON85rEJDm/view?usp=sharing)
+
+
 :white_check_mark: [skleptest.pl - web application](https://skleptest.pl/)</a>
 
 <p><i> I conduct exploratory tests of the application. So far, the following have been tested: the homepage - checked for usability, functionality and visual aspects. In further tests, the following areas require additional attention:
