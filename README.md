@@ -12,15 +12,13 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 ## Projects
 
-:white_check_mark: <b>Trello REST API testing with Postman</b>
+:white_check_mark: <b>[Trello REST API testing with Postman](https://github.com/Caounee/Trello_REST_API)</b>
 
 A collection of Trello REST API tests performed in Postman, based on [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/).
 
+* [screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
-* [screenshot on Google Drive](https://drive.google.com/file/d/177nJ2icbPnrgaMYBW9AG-P3ON85rEJDm/view?usp=sharing)
-
-
-:white_check_mark: <b>[skleptest.pl - web application](https://skleptest.pl/)</b></a>
+:white_check_mark: <b>[skleptest.pl - web application](https://github.com/Caounee/skleptest)</b></a>
 
 <p>I conduct exploratory tests of the application. So far, the following have been tested: the homepage - checked for usability, functionality and visual aspects. In further tests, the following areas require additional attention:
         product category page
@@ -31,7 +29,7 @@ A collection of Trello REST API tests performed in Postman, based on [Trello API
 •       user account.</p>
  
 * [bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
-* [report on GitHub](https://github.com/Caounee/skleptest) / [report on Google Drive in PDF](https://drive.google.com/file/d/1Po90SQby81PSUTO2VD9_uvJEsfg_BED9/view?usp=sharing)</a>
+* [report on Google Drive in PDF](https://drive.google.com/file/d/1Po90SQby81PSUTO2VD9_uvJEsfg_BED9/view?usp=sharing)</a>
 
 ## Courses
 
