@@ -59,14 +59,13 @@ A collection of Trello REST API tests performed in Postman, based on [Trello API
 * ✅ Jira
 * ✅ Confluence
 * ✅ TestRail, Zephyr
+* ✅ GIT, GitHub
 * ✅ SQL
 * ✅ DevTools
 * ✅ Playwright
-* ✅ GIT, GitHub
 * ✅ REST API
 * ✅ Postman
-* ✅ JSON
-* ✅ XML
+* ✅ JSON, XML
 * ✅ HTML, CSS
 * ✅ Visual Studio Code
 * ✅ Trello
