@@ -16,7 +16,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 A collection of Trello REST API tests performed in Postman, based on [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/).
 
-* [screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
+* [tests on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
 :white_check_mark: <b>[skleptest.pl - web application](https://github.com/Caounee/skleptest)</b></a>
 
