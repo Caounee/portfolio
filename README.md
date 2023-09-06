@@ -77,7 +77,7 @@ others:
 
 * ✅ knowledge of ISTQB
 * ✅ knowledge of the HTTP/HTTPS protocol and the most common error codes
-* ✅ knowledge of the Linux system - <i>basics</i>
+* ✅ knowledge of the Linux system
 * ✅ knowledge of Agile
 * ✅ creating test cases
 * ✅ bug reporting
