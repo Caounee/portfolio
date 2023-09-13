@@ -16,35 +16,35 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 A collection of Trello REST API tests performed in Postman, based on [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/).
 
-* [tests on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
+* ✔️ [tests on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
 :white_check_mark: <b>[skleptest.pl - web application](https://github.com/Caounee/skleptest)</b></a>
 
-<p>I conducted exploratory tests of the application. I divided the tests into several stages: <b><i>• the homepage • the menu • all menu tabs • the cart and ordering process • user account • product sorting • product pages • search.</i></b> During the tests, I checked the navigation <b><i>• navigation • links • the overall appearance of the page.</i></b>
+<p>I conducted exploratory tests of the application. I divided the tests into several stages: <i> • homepage • menu • all menu tabs • cart and ordering process • user account • product sorting • product pages • search. </i> During the tests, I checked the <i> navigation • navigation • links • the overall appearance of the page. </i>
 </p>
 
-* [bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
-* [report on Google Drive in PDF](https://drive.google.com/file/d/1Po90SQby81PSUTO2VD9_uvJEsfg_BED9/view?usp=sharing)
+* ✔️ [bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
+* ✔️ [report on Google Drive in PDF](https://drive.google.com/file/d/1Po90SQby81PSUTO2VD9_uvJEsfg_BED9/view?usp=sharing)
 
 ## Courses
 
 :white_check_mark: <b>uTest Academy</b> - <i>uTest</i>
  <p><i>present</i></p>
  
-* learning basic testing skills
-* practical application of the skills in live testing cycles
+* ✔️ learning basic testing skills
+* ✔️ practical application of the skills in live testing cycles
 
 :white_check_mark: <b>QA Marathon</b> - <i>GoIT</i>
 <p><i> 4 days of training | February 2023 </i></p>
 
-* developing test cases
-* creating bug reports
+* ✔️ developing test cases
+* ✔️ creating bug reports
 
 :white_check_mark: <b>Marathon GoIT</b> - <i>GoIT</i>
 <p><i> 7 days of training | February 2023 </i></p>
 
-* learning basic HTML and CSS tags
-* creating your own resume as a webpage
+* ✔️ learning basic HTML and CSS tags
+* ✔️ creating your own resume as a webpage
 
 ## Tools
 
