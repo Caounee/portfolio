@@ -14,7 +14,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 :white_check_mark: <b>[Trello REST API testing [Postman]](https://github.com/Caounee/Trello_REST_API)</b>
 
-I performed Trello REST API tests based on the Trello API documentation using Postman [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool. I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkItem •  delete. </i>
+I performed Trello REST API tests based on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool. I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkItem •  delete. </i>
 
 * ✔️ [tests on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
