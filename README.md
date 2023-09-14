@@ -16,15 +16,15 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 I performed Trello REST API tests based on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool. I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkItem •  delete. </i>
 
-* ✔️ [tests on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
+* ✔️ [test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
-:white_check_mark: <b>[skleptest.pl - web application [Jira]](https://github.com/Caounee/skleptest)</b></a>
+:white_check_mark: <b>[skleptest.pl - exploratory testing of the web application [Jira]](https://github.com/Caounee/skleptest)</b></a>
 
 <p>I conducted exploratory tests of the application. I divided the tests into several stages: <i> • homepage • menu • all menu tabs • cart and ordering process • user account • product sorting • product pages • search. </i> During the tests, I checked the <i> navigation • navigation • links • the general appearance of the website. </i> I used the Jira tool.
 </p>
 
 * ✔️ [bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
-* ✔️ [report on Google Drive in PDF](https://drive.google.com/file/d/1Po90SQby81PSUTO2VD9_uvJEsfg_BED9/view?usp=sharing)
+* ✔️ [test report on Google Drive in PDF](https://drive.google.com/file/d/1Po90SQby81PSUTO2VD9_uvJEsfg_BED9/view?usp=sharing)
 
 ## Courses
 
