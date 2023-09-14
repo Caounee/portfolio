@@ -23,7 +23,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 <p>I conducted exploratory tests of the application. I divided the tests into several stages: <i> • homepage • menu • all menu tabs • cart and ordering process • user account • product sorting • product pages • search. </i> During the tests, I checked <i>  • navigation • links • the general appearance of the website. </i> I used the Jira tool.
 </p>
 
-* ✔️ [bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
+* ✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 * ✔️ [test report on Google Drive in PDF](https://drive.google.com/file/d/1Po90SQby81PSUTO2VD9_uvJEsfg_BED9/view?usp=sharing)
 
 ## Courses
