@@ -20,7 +20,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 
 :white_check_mark: <b>[skleptest.pl - exploratory testing of the web application [Jira]](https://github.com/Caounee/skleptest)</b></a>
 
-<p>I conducted exploratory tests of the application. I divided the tests into several stages: <i> • homepage • menu • all menu tabs • cart and ordering process • user account • product sorting • product pages • search. </i> During the tests, I checked the <i> navigation • navigation • links • the general appearance of the website. </i> I used the Jira tool.
+<p>I conducted exploratory tests of the application. I divided the tests into several stages: <i> • homepage • menu • all menu tabs • cart and ordering process • user account • product sorting • product pages • search. </i> During the tests, I checked <i>  • navigation • links • the general appearance of the website. </i> I used the Jira tool.
 </p>
 
 * ✔️ [bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
