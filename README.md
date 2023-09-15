@@ -2,9 +2,9 @@
 
 ## About me
 
-I'm a beginner tester who recently decided to switch from the sales industry. My approach is full of enthusiasm and passion for exploring the tester's world.
+I am a beginner tester who recently decided to switch from the sales industry. My approach is full of enthusiasm and passion for exploring the tester's world.
 
-For several years I worked in the trade industry, where I developed skills in customer service, project management and problem solving. I am convinced that this valuable knowledge and experience will be useful to take on new challenges and grow as a professional tester.
+For several years I worked in the trade industry, where I developed skills in customer service, project management and problem solving. I am confident that this valuable knowledge and experience will be useful to take on new challenges and grow as a professional tester.
 
 I am meticulous, conscientious and ready to take on new challenges. My previous experience has taught me communication, flexibility and the ability to cope in a dynamic environment. Now I want to use these skills to collaborate with a team, focus on detail and deliver quality software.
 
