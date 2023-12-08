@@ -58,7 +58,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 * ✅ REST API
 * ✅ Postman
 * ✅ JSON, XML
-* ✅ HTML, CSS
+* ✅ HTML, CSS, JavaScript
 * ✅ Visual Studio Code
 * ✅ Trello
 * ✅ Microsoft Office
@@ -70,7 +70,6 @@ others:
 ## Tech skills
 
 * ✅ knowledge of ISTQB
-* ✅ knowledge of the HTTP/HTTPS protocol and the most common error codes
 * ✅ knowledge of the Linux system
 * ✅ knowledge of Agile
 * ✅ creating test cases
@@ -78,6 +77,7 @@ others:
 * ✅ testing websites
 * ✅ API testing
 * ✅ creating websites in HTML, CSS
+* ✅ knowledge of the HTTP/HTTPS protocol and the most common error codes
 
 ## Soft skills
 
