@@ -2,13 +2,11 @@
 
 ## About me
 
-I am a beginner tester who recently decided to switch from the sales industry. My approach is full of enthusiasm and passion for exploring the tester's world.
+I have been working on individual development in testing for over a year. For several years, I worked in the retail industry, where I developed skills in customer service, project management, and problem-solving. I am confident that this valuable knowledge and experience will be useful in taking on new challenges and growing as a professional tester.
 
-For several years I worked in the trade industry, where I developed skills in customer service, project management and problem solving. I am confident that this valuable knowledge and experience will be useful to take on new challenges and grow as a professional tester.
+I am meticulous, conscientious and ready to take on new challenges. My previous experience has taught me communication, flexibility and the ability to thrive in a dynamic environment. Now, I want to use these skills to work with a team, focus on details, and deliver high-quality software.
 
-I am meticulous, conscientious and ready to take on new challenges. My previous experience has taught me communication, flexibility and the ability to cope in a dynamic environment. Now I want to use these skills to collaborate with a team, focus on detail and deliver quality software.
-
-If you are looking for the full enthusiasm and commitment of the tester, feel free to contact me. I would like to join an inspiring team and grow together in the field of software testing.
+If you are looking for a tester full of enthusiasm and commitment, feel free to reach out. Currently, I am diligently expanding my knowledge of SQL and JavaScript. Soon, I plan to start learning test automation.
 
 ## Projects
 
@@ -48,8 +46,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 ## Tools
 
 
-* ✅ Jira
-* ✅ Confluence
+* ✅ Jira, Confluence
 * ✅ TestRail, Zephyr
 * ✅ GIT, GitHub
 * ✅ SQL
@@ -69,14 +66,12 @@ others:
 
 ## Tech skills
 
+* ✅ creating test cases
+* ✅ bug reporting
+* ✅ testing
 * ✅ knowledge of ISTQB
 * ✅ knowledge of the Linux system
 * ✅ knowledge of Agile
-* ✅ creating test cases
-* ✅ bug reporting
-* ✅ testing websites
-* ✅ API testing
-* ✅ creating websites in HTML, CSS
 * ✅ knowledge of the HTTP/HTTPS protocol and the most common error codes
 
 ## Soft skills
@@ -91,7 +86,7 @@ others:
 ## Languages
 
 * ✅ Polish - <i>native</i>
-* ✅ English - <i>A2</i>
+* ✅ English - <i>B1</i>
 
 ## Books about testing
 
