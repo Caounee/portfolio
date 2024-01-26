@@ -2,7 +2,7 @@
 
 ## About me
 
-I have been working on individual development in testing for over a year. For several years, I worked in the retail industry, where I developed skills in customer service, project management, and problem-solving. I am confident that this valuable knowledge and experience will be useful in taking on new challenges and growing as a professional tester.
+For over a year I have been working on individual development in testing. I worked in the retail industry for several years, where I developed skills in customer service, project management, and problem-solving. I am confident that this valuable knowledge and experience will be useful in taking on new challenges and growing as a professional tester.
 
 I am meticulous, conscientious and ready to take on new challenges. My previous experience has taught me communication, flexibility and the ability to thrive in a dynamic environment. Now, I want to use these skills to work with a team, focus on details, and deliver high-quality software.
 
