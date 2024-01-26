@@ -70,7 +70,7 @@ others:
 * ✅ bug reporting
 * ✅ testing
 * ✅ knowledge of ISTQB
-* ✅ knowledge of the Linux system
+* ✅ knowledge of Linux
 * ✅ knowledge of Agile
 * ✅ knowledge of the HTTP/HTTPS protocol and the most common error codes
 
