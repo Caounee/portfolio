@@ -87,6 +87,7 @@ others:
 
 * ✅ Polish - <i>native</i>
 * ✅ English - <i>B1</i>
+* ✅ Spanish - <i>A1</i>
 
 ## Books about testing
 
