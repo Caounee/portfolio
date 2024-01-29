@@ -18,17 +18,17 @@ By testing Trello API, we can check how the interaction with the Trello applicat
 * tools: Postman
 * methods: create, get, update, delete
 
-<i>✔️ [test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)</i>
+✔️ [test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
-:white_check_mark: <b>[skleptest.pl - exploratory testing of the web application [Jira]](https://github.com/Caounee/skleptest)</b></a>
+:white_check_mark: <b>[skleptest.pl](https://github.com/Caounee/skleptest)</b></a>
 
-<p>My website tests.  I divided the tests into several stages: <i> • homepage • menu • shopping cart and ordering process • user account • product sorting • product pages • search. </i> I found a lot of mistakes which I included in my portfolio.
+<p>My website tests.  I grouped the tests into several stages: <i> • homepage • menu • shopping cart and ordering process • user account • product sorting • product pages • search. </i> I found a lot of mistakes which I included in my portfolio.
 
 * type of tests: exploratory tests
 * tools: Jira, Monosnap
 </p>
 
-<i>✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)</i>
+✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 
 ## Courses
 
