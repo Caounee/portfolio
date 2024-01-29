@@ -10,18 +10,25 @@ If you are looking for a tester full of enthusiasm and commitment, feel free to 
 
 ## Projects
 
-:white_check_mark: <b>[Trello REST API testing [Postman]](https://github.com/Caounee/Trello_REST_API)</b>
+:white_check_mark: <b>[Trello REST API](https://github.com/Caounee/Trello_REST_API)</b>
 
-I performed Trello REST API tests based on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool. I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkitem •  delete. </i>
+By testing Trello API, we can check how the interaction with the Trello application works. I based my tests on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkitem •  delete. </i>
 
-* ✔️ [test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
+* technologies: REST API
+* tools: Postman
+* methods: create, get, update, delete
+
+<i>✔️ [test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)</i>
 
 :white_check_mark: <b>[skleptest.pl - exploratory testing of the web application [Jira]](https://github.com/Caounee/skleptest)</b></a>
 
-<p>I conducted exploratory tests of the application. I used the Jira tool. I divided the tests into several stages: <i> • homepage • menu • shopping cart and ordering process • user account • product sorting • product pages • search. </i>
+<p>My website tests.  I divided the tests into several stages: <i> • homepage • menu • shopping cart and ordering process • user account • product sorting • product pages • search. </i> I found a lot of mistakes which I included in my portfolio.
+
+* type of tests: exploratory tests
+* tools: Jira, Monosnap
 </p>
 
-* ✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
+<i>✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)</i>
 
 ## Courses
 
