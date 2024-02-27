@@ -108,7 +108,7 @@ others:
 * ✅ knowledge of Linux
 * ✅ knowledge of Agile
 * ✅ knowledge of the HTTP/HTTPS protocol and the most common error codes
-
+  
 ## Soft skills
 
 * ✅ concentration
