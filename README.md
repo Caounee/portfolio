@@ -35,48 +35,53 @@ By testing Trello API, we can check how the interaction with the Trello applicat
 :white_check_mark: <b>uTest Academy</b> - <i>uTest</i>
  <p><i>present</i></p>
  
-* ✔️ I develop basic testing skills and apply them in live test cycles.
+* I develop basic testing skills and apply them in live test cycles.
+
+:white_check_mark: [<b>English for IT Professionals</b> - <i>Udemy</i>](https://www.udemy.com/certificate/UC-1f4c44b9-72ac-41cb-9ec5-c55c7817662e/)
+ <p><i>05/2024</i></p>
+ 
+* I gained knowledge of many terms related to the IT industry, which will help me communicate more easily with colleagues and clients. I learned even more in-depth grammar useful for communication.
 
 :white_check_mark: [<b>Software Tester Certification Course</b> - <i>Programming Hub</i>](https://drive.google.com/file/d/1ZwHDWo-jHLU3_5hmvboTMWq9NuDHKuVN/view)
  <p><i>01/2024 – 02/2024</i></p>
  
-* ✔️ I solidified my knowledge in software testing gained from previous courses.
+* I solidified my knowledge in software testing gained from previous courses.
 
 :white_check_mark: [<b>Start Your API Testing Journey With Postman Tool</b> - <i>Coursera</i>](https://www.coursera.org/account/accomplishments/verify/URPS9372M8VE)
  <p><i>02/2024</i></p>
  
-* ✔️ I understood the use of APIs. I learned the basic HTTP methods: GET, POST, PUT, and
+*  I understood the use of APIs. I learned the basic HTTP methods: GET, POST, PUT, and
 DELETE.
 
 :white_check_mark: [<b>SQL for Data Science</b> - <i>Great Learning Academy</i>](https://verify.mygreatlearning.com/verify/USCBZLOU)
  <p><i>02/2024</i></p>
  
-* ✔️ I learned basic SQL queries and their application.
+*  I learned basic SQL queries and their application.
 
 :white_check_mark: [<b>Git Certification Course</b> - <i>Programming Hub</i>](https://drive.google.com/file/d/19M-4njJD7o7iEqoZYFH_wURlwSeg--bk/view)
  <p><i>01/2024 – 02/2024</i></p>
  
-* ✔️ I learned the basics of GIT and GitHub and their practical application.
+*  I learned the basics of GIT and GitHub and their practical application.
 
 :white_check_mark: [<b>Get Started with Jira</b> - <i>Coursera</i>](https://www.coursera.org/account/accomplishments/verify/ET7GBKW8HTYW)
  <p><i>02/2024</i></p>
  
-* ✔️ I learned how to use Jira, where I created and managed projects.
+*  I learned how to use Jira, where I created and managed projects.
 
 :white_check_mark: [<b>Software Testing Tutorial</b> - <i>Great Learning Academy</i>](https://verify.mygreatlearning.com/verify/KWCJBIYD)
  <p><i>02/2024</i></p>
  
-* ✔️ I learned SDLC, basic principles and the importance of software testing. I learned about the role of documentation and software testing models, strategic testing approaches, and different levels of software testing.
+*  I learned SDLC, basic principles and the importance of software testing. I learned about the role of documentation and software testing models, strategic testing approaches, and different levels of software testing.
 
 :white_check_mark: [<b>IT Basics Certification Course</b> - <i>Programming Hub</i>](https://drive.google.com/file/d/1ajY5ZXK7w9kpjpMsWfVM0UeieLQfd3kR/view)
  <p><i>01/2024 – 02/2024</i></p>
  
-* ✔️ I learned about IT basics.
+*  I learned about IT basics.
 
 :white_check_mark: [<b>Foundations of Software Testing and Validation</b> - <i>Coursera</i>](https://www.coursera.org/account/accomplishments/verify/5JSJX7DRWVQ2)
  <p><i>12/2023 – 02/2024</i></p>
  
-* ✔️ I learned about the software development life cycle, the significance of testing in the
+*  I learned about the software development life cycle, the significance of testing in the
 software creation process and when, and why it should be applied. I also learned about
 various types of testing, their advantages, and disadvantages. I can design test cases.
 
