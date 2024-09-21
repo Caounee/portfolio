@@ -2,11 +2,11 @@
 
 ## About me
 
-For over a year I have been working on individual development in testing. I worked in the retail industry for several years, where I developed skills in customer service, project management, and problem-solving. I am confident that this valuable knowledge and experience will be useful in taking on new challenges and growing as a professional tester.
+I am passionately and actively developing my career by combining experience in sales with skills in software testing. For several years, I worked as a salesperson, where I learned effective customer communication, time management, and problem-solving.
 
-I am meticulous, conscientious and ready to take on new challenges. My previous experience has taught me communication, flexibility and the ability to thrive in a dynamic environment. Now, I want to use these skills to work with a team, focus on details, and deliver high-quality software.
+Now, I am focusing on software testing, gaining knowledge and hands-on experience in identifying and reporting bugs. I am committed to continuously improving my skills and expanding my knowledge to deliver the highest quality in my work.
 
-If you are looking for a tester full of enthusiasm and commitment, feel free to reach out. Currently, I am diligently expanding my knowledge of SQL and JavaScript. Soon, I plan to start learning test automation.
+I am driven by a desire for excellence, precision, and determination in achieving goals. I am open to new challenges and eager to take on tasks that allow me to grow professionally.
 
 ## Projects
 
@@ -47,36 +47,16 @@ By testing Trello API, we can check how the interaction with the Trello applicat
  
 * I solidified my knowledge in software testing gained from previous courses.
 
-:white_check_mark: [<b>Start Your API Testing Journey With Postman Tool</b> - <i>Coursera</i>](https://www.coursera.org/account/accomplishments/verify/URPS9372M8VE)
- <p><i>02/2024</i></p>
- 
-*  I understood the use of APIs. I learned the basic HTTP methods: GET, POST, PUT, and
-DELETE.
 
 :white_check_mark: [<b>SQL for Data Science</b> - <i>Great Learning Academy</i>](https://verify.mygreatlearning.com/verify/USCBZLOU)
  <p><i>02/2024</i></p>
  
 *  I learned basic SQL queries and their application.
 
-:white_check_mark: [<b>Git Certification Course</b> - <i>Programming Hub</i>](https://drive.google.com/file/d/19M-4njJD7o7iEqoZYFH_wURlwSeg--bk/view)
- <p><i>01/2024 – 02/2024</i></p>
- 
-*  I learned the basics of GIT and GitHub and their practical application.
-
-:white_check_mark: [<b>Get Started with Jira</b> - <i>Coursera</i>](https://www.coursera.org/account/accomplishments/verify/ET7GBKW8HTYW)
- <p><i>02/2024</i></p>
- 
-*  I learned how to use Jira, where I created and managed projects.
-
 :white_check_mark: [<b>Software Testing Tutorial</b> - <i>Great Learning Academy</i>](https://verify.mygreatlearning.com/verify/KWCJBIYD)
  <p><i>02/2024</i></p>
  
 *  I learned SDLC, basic principles and the importance of software testing. I learned about the role of documentation and software testing models, strategic testing approaches, and different levels of software testing.
-
-:white_check_mark: [<b>IT Basics Certification Course</b> - <i>Programming Hub</i>](https://drive.google.com/file/d/1ajY5ZXK7w9kpjpMsWfVM0UeieLQfd3kR/view)
- <p><i>01/2024 – 02/2024</i></p>
- 
-*  I learned about IT basics.
 
 :white_check_mark: [<b>Foundations of Software Testing and Validation</b> - <i>Coursera</i>](https://www.coursera.org/account/accomplishments/verify/5JSJX7DRWVQ2)
  <p><i>12/2023 – 02/2024</i></p>
@@ -87,7 +67,8 @@ various types of testing, their advantages, and disadvantages. I can design test
 
 ## Tools
 
-* ✅ Jira, Confluence
+* ✅ Jira
+* ✅ Confluence
 * ✅ TestRail, Zephyr
 * ✅ GIT, GitHub
 * ✅ SQL
@@ -97,7 +78,7 @@ various types of testing, their advantages, and disadvantages. I can design test
 * ✅ Postman
 * ✅ JSON, XML
 * ✅ HTML, CSS, JavaScript
-* ✅ Visual Studio Code
+* ✅ Visual Studio Code, Web Storm
 * ✅ Trello
 * ✅ Microsoft Office
 
