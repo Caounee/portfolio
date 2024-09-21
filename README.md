@@ -8,6 +8,23 @@ Now, I am focusing on software testing, gaining knowledge and hands-on experienc
 
 I am driven by a desire for excellence, precision, and determination in achieving goals. I am open to new challenges and eager to take on tasks that allow me to grow professionally.
 
+## Experience
+
+:white_check_mark: <b>Awumba Solutions, LLC -</b> <i>QA Intern</i>
+
+<i>06/2024 – present</i>
+
+* performing manual tests
+* checking if the application meets business and technical requirements
+* reporting bugs
+* retesting bugs after the development team fixes them
+* testing UI/UX functionality and usability
+* conducting regression tests
+* creating, improving, and maintaining automated tests
+* analyzing and verifying the results of automated tests
+* creating smoke tests to quickly find basic issues after deployment
+* preparing test plans and test strategies for the project
+
 ## Projects
 
 :white_check_mark: <b>[Trello REST API](https://github.com/Caounee/Trello_REST_API)</b>
