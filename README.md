@@ -25,9 +25,9 @@ My key traits are striving for precision, responsibility, and determination, whi
 * testing UI/UX functionality and usability
 * creating and maintaining smoke tests to verify basic application functionality
 * preparing test strategies for the project
-* collaborating with the development team
 * understanding of the software development life cycle (SDLC)
 * effective teamwork and communication skills with other project members
+* knowledge of the HTTP/HTTPS protocol and the most common error codes
 
 ## Projects
 
@@ -90,6 +90,7 @@ various types of testing, their advantages, and disadvantages. I can design test
 
 * ✅ Jira
 * ✅ Confluence
+* ✅ Azure DevOps
 * ✅ TestRail, Zephyr
 * ✅ GIT, GitHub
 * ✅ SQL
@@ -100,22 +101,13 @@ various types of testing, their advantages, and disadvantages. I can design test
 * ✅ JSON, XML
 * ✅ HTML, CSS, JavaScript
 * ✅ Visual Studio Code, Web Storm
+* ✅ Figma
 * ✅ Trello
-* ✅ Microsoft Office
+* ✅ Microsoft Teams, Microsoft Office
 
 others:
 * ✅ Affinity Photo, CorelDRAW, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Audition - <i>basics</i>
 
-## Tech skills
-
-* ✅ creating test cases
-* ✅ bug reporting
-* ✅ testing
-* ✅ knowledge of ISTQB
-* ✅ knowledge of Linux
-* ✅ knowledge of Agile
-* ✅ knowledge of the HTTP/HTTPS protocol and the most common error codes
-  
 ## Soft skills
 
 * ✅ concentration
