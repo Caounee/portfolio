@@ -2,11 +2,11 @@
 
 ## About me
 
-I am passionately and actively developing my career by combining experience in sales with skills in software testing. For several years, I worked as a salesperson, where I learned effective customer communication, time management, and problem-solving.
+With passion and commitment, I am developing my career in software testing, combining my experience in retail with growing technical skills. Working as a salesperson for several years allowed me to improve my communication, time management, and problem-solving skills.
 
-Now, I am focusing on software testing, gaining knowledge and hands-on experience in identifying and reporting bugs. I am committed to continuously improving my skills and expanding my knowledge to deliver the highest quality in my work.
+Currently, I focus on software testing, including test automation, gaining knowledge and practical experience in identifying and reporting bugs and creating effective tests. I am determined to continuously improve my skills and deliver high-quality results in every project.
 
-I am driven by a desire for excellence, precision, and determination in achieving goals. I am open to new challenges and eager to take on tasks that allow me to grow professionally.
+My key traits are striving for precision, responsibility, and determination, which help me achieve my goals. I am open to new challenges that allow me to develop my testing skills, especially in automation.
 
 ## Experience
 
@@ -15,37 +15,42 @@ I am driven by a desire for excellence, precision, and determination in achievin
 <i>06/2024 – present</i>
 
 * performing manual tests
-* checking if the application meets business and technical requirements
-* reporting bugs
-* retesting bugs after the development team fixes them
-* testing UI/UX functionality and usability
-* conducting regression tests
 * creating, improving, and maintaining automated tests
 * analyzing and verifying the results of automated tests
-* creating smoke tests to quickly find basic issues after deployment
-* preparing test plans and test strategies for the project
+* checking if the application meets business and technical requirements
+* identifying, reporting, and tracking bugs
+* retesting bugs after the development team fixes them
+* conducting regression tests
+* conducting exploratory tests
+* testing UI/UX functionality and usability
+* creating and maintaining smoke tests to verify basic application functionality
+* preparing test strategies for the project
+* collaborating with the development team
+* understanding of the software development life cycle (SDLC)
+* basic knowledge of test automation tools like Playwright
+* effective teamwork and communication skills with other project members
 
 ## Projects
 
 :white_check_mark: <b>[Trello REST API](https://github.com/Caounee/Trello_REST_API)</b>
 
-By testing Trello API, we can check how the interaction with the Trello application works. I based my tests on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkitem •  delete. </i>
+By testing Trello API, we can check how the interaction with the Trello application works. I conducted these tests based on [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkitem •  delete. </i>
 
 * technologies: REST API
 * tools: Postman
 * methods: create, get, update, delete
 
-✔️ [test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
+[test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
 :white_check_mark: <b>[skleptest.pl](https://github.com/Caounee/skleptest)</b></a>
 
-<p>My website tests.  I grouped the tests into several stages: <i> • homepage • menu • shopping cart and ordering process • user account • product sorting • product pages • search. </i> I found a lot of mistakes which I included in my portfolio.
+<p>My tests of a sample website. I grouped the tests into several sets: <i> • homepage • menu • shopping cart and ordering process • user account • product sorting • product pages • search. </i> I found a lot of bugs which I included in my portfolio.
 
 * type of tests: exploratory tests
 * tools: Jira, Monosnap
 </p>
 
-✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
+[screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 
 ## Courses
 
