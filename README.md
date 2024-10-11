@@ -27,7 +27,6 @@ My key traits are striving for precision, responsibility, and determination, whi
 * preparing test strategies for the project
 * collaborating with the development team
 * understanding of the software development life cycle (SDLC)
-* basic knowledge of test automation tools like Playwright
 * effective teamwork and communication skills with other project members
 
 ## Projects
