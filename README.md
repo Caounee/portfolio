@@ -40,7 +40,7 @@ By testing Trello API, we can check how the interaction with the Trello applicat
 * tools: Postman
 * methods: create, get, update, delete
 
-[test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
+test screenshots on Google Drive -> [here](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
 :white_check_mark: <b>[skleptest.pl](https://github.com/Caounee/skleptest)</b></a>
 
@@ -50,7 +50,7 @@ By testing Trello API, we can check how the interaction with the Trello applicat
 * tools: Jira, Monosnap
 </p>
 
-[screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
+screenshots of bug reports on Google Drive -> [here](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 
 ## Courses
 
