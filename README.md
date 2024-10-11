@@ -120,7 +120,7 @@ others:
 ## Languages
 
 * ✅ Polish - <i>native</i>
-* ✅ English - <i>A2</i>
+* ✅ English - <i>A2/B1</i>
 * ✅ Spanish - <i>A1</i>
 
 ## Books about testing
